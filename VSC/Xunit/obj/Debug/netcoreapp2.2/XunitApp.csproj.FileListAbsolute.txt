@@ -1,0 +1,14 @@
+D:\Tuto Source\NETCore\VSC\Xunit\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Tuto Source\NETCore\VSC\Xunit\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Tuto Source\NETCore\VSC\Xunit\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Tuto Source\NETCore\VSC\Xunit\bin\Debug\netcoreapp2.2\XunitApp.deps.json
+D:\Tuto Source\NETCore\VSC\Xunit\bin\Debug\netcoreapp2.2\XunitApp.runtimeconfig.json
+D:\Tuto Source\NETCore\VSC\Xunit\bin\Debug\netcoreapp2.2\XunitApp.runtimeconfig.dev.json
+D:\Tuto Source\NETCore\VSC\Xunit\bin\Debug\netcoreapp2.2\XunitApp.dll
+D:\Tuto Source\NETCore\VSC\Xunit\bin\Debug\netcoreapp2.2\XunitApp.pdb
+D:\Tuto Source\NETCore\VSC\Xunit\obj\Debug\netcoreapp2.2\XunitApp.csprojAssemblyReference.cache
+D:\Tuto Source\NETCore\VSC\Xunit\obj\Debug\netcoreapp2.2\XunitApp.csproj.CoreCompileInputs.cache
+D:\Tuto Source\NETCore\VSC\Xunit\obj\Debug\netcoreapp2.2\XunitApp.AssemblyInfoInputs.cache
+D:\Tuto Source\NETCore\VSC\Xunit\obj\Debug\netcoreapp2.2\XunitApp.AssemblyInfo.cs
+D:\Tuto Source\NETCore\VSC\Xunit\obj\Debug\netcoreapp2.2\XunitApp.dll
+D:\Tuto Source\NETCore\VSC\Xunit\obj\Debug\netcoreapp2.2\XunitApp.pdb

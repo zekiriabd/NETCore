@@ -1,0 +1,11 @@
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\bin\Debug\netcoreapp2.2\Nuget.deps.json
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\bin\Debug\netcoreapp2.2\Nuget.runtimeconfig.json
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\bin\Debug\netcoreapp2.2\Nuget.runtimeconfig.dev.json
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\bin\Debug\netcoreapp2.2\Nuget.dll
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\bin\Debug\netcoreapp2.2\Nuget.pdb
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\obj\Debug\netcoreapp2.2\Nuget.csprojAssemblyReference.cache
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\obj\Debug\netcoreapp2.2\Nuget.csproj.CoreCompileInputs.cache
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\obj\Debug\netcoreapp2.2\Nuget.AssemblyInfoInputs.cache
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\obj\Debug\netcoreapp2.2\Nuget.AssemblyInfo.cs
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\obj\Debug\netcoreapp2.2\Nuget.dll
+D:\Tuto Source\NET_Core\VS2019\Nuget\Nuget\obj\Debug\netcoreapp2.2\Nuget.pdb

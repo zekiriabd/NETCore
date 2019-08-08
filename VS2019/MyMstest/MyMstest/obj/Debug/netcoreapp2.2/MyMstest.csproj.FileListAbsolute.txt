@@ -1,0 +1,14 @@
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\bin\Debug\netcoreapp2.2\MyMstest.deps.json
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\bin\Debug\netcoreapp2.2\MyMstest.runtimeconfig.json
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\bin\Debug\netcoreapp2.2\MyMstest.runtimeconfig.dev.json
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\bin\Debug\netcoreapp2.2\MyMstest.dll
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\bin\Debug\netcoreapp2.2\MyMstest.pdb
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\obj\Debug\netcoreapp2.2\MyMstest.csprojAssemblyReference.cache
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\obj\Debug\netcoreapp2.2\MyMstest.csproj.CoreCompileInputs.cache
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\obj\Debug\netcoreapp2.2\MyMstest.AssemblyInfoInputs.cache
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\obj\Debug\netcoreapp2.2\MyMstest.AssemblyInfo.cs
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\obj\Debug\netcoreapp2.2\MyMstest.dll
+D:\Tuto Source\NETCore\VS2019\MyMstest\MyMstest\obj\Debug\netcoreapp2.2\MyMstest.pdb

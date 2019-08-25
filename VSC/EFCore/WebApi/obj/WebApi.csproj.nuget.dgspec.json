@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\WebApi\\webApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\ORM\\ORM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\ORM\\ORM.csproj",
+        "projectName": "ORM",
+        "projectPath": "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\ORM\\ORM.csproj",
+        "packagesPath": "C:\\Users\\zekiriPC\\.nuget\\packages\\",
+        "outputPath": "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\ORM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zekiriPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "microsoft.entityframeworkcore.Tools": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "microsoft.entityframeworkcore.Tools.Dotnet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "microsoft.entityframeworkcore.sqlServer": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\WebApi\\webApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\WebApi\\webApi.csproj",
+        "projectName": "webApi",
+        "projectPath": "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\WebApi\\webApi.csproj",
+        "packagesPath": "C:\\Users\\zekiriPC\\.nuget\\packages\\",
+        "outputPath": "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zekiriPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\ORM\\ORM.csproj": {
+                "projectPath": "D:\\Tuto Source\\NETCore\\VSC\\EFCore\\ORM\\ORM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

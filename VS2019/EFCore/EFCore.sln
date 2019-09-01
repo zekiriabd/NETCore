@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORM", "ORM\ORM.csproj", "{655B1D28-0187-4CD7-B8DB-2C27D79C4EE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F7C5C5CA-7148-40C2-B83E-BA0B8AB5DFA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientWPF", "Client\ClientWPF.csproj", "{F7C5C5CA-7148-40C2-B83E-BA0B8AB5DFA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\WebApi\\WebApi.csproj": {}
+    "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj": {
+    "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj",
+        "projectUniqueName": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj",
         "projectName": "ORM",
-        "projectPath": "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj",
+        "projectPath": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj",
         "packagesPath": "C:\\Users\\zekiriPC\\.nuget\\packages\\",
-        "outputPath": "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\ORM\\obj\\",
+        "outputPath": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\ORM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\WebApi\\WebApi.csproj": {
+    "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\zekiriPC\\.nuget\\packages\\",
-        "outputPath": "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\WebApi\\obj\\",
+        "outputPath": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -90,8 +90,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj": {
-                "projectPath": "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj"
+              "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj": {
+                "projectPath": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj"
               }
             }
           }
@@ -117,7 +117,6 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true

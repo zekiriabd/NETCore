@@ -9,60 +9,42 @@ namespace WebApi.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
+        private UserDataAccess userDataAccess = new UserDataAccess();
+
         [HttpGet]
-        public ActionResult<List<UserM>> GetUsers()
+        public ActionResult<List<User>> GetUsers()
         {
-            var UsersDB = UserManager.UserList();
-            var Result = new List<UserM>();
-            foreach (var userDB in UsersDB)
-            {
-                Result.Add(new UserM()
-                {
-                    User_Id = userDB.Id,
-                    FirstName = userDB.FirstName,
-                    LastName = userDB.LastName
-                });
-            }
-            return Result;
-
-        }
-
-        [HttpGet("{id}")]
-        public ActionResult<UserM> GetUserByID(int id)
-        {
-            var userDB = UserManager.UserById(id);
-            var Result = new UserM() {
-                User_Id = userDB.Id,
-                FirstName = userDB.FirstName,
-                LastName = userDB.LastName
-            };
-
-            return Result;
-        }
-
-        [HttpGet("{id}")]
-        public void DelUserByID(int id)
-        {
-            UserManager.DelUserById(id);
+            return userDataAccess.Users.OrderBy(u => u.Id).ToList();
         }
 
         [HttpPost]
-        public void PostUser([FromBody] UserM newUser)
+        public void PostUser([FromBody] User newUser)
         {
-            var user = new User()
-            {
-                FirstName = newUser.FirstName,
-                LastName = newUser.LastName,
-            };
+            userDataAccess.Users.Add(newUser);
+            userDataAccess.SaveChanges();
+        }
 
-           UserManager.AddUser(user);
+        [HttpGet("{id}")]
+        public ActionResult<User> GetUserByID(int id)
+        {
+            return userDataAccess.Users.FirstOrDefault(u => u.Id == id);
+        }
+
+        
+        [HttpGet("{id}")]
+        public void DelUserByID(int id)
+        {
+            var user = userDataAccess.Users.Find(id);
+            userDataAccess.Users.Remove(user);
+            userDataAccess.SaveChanges();
         }
 
         [HttpPost]
         public void UpdateUser([FromBody] User newUser)
         {
-            UserManager.UpdateUser(newUser);
+            userDataAccess.Users.Update(newUser);
+            userDataAccess.SaveChanges();
         }
-
+        
     }
 }

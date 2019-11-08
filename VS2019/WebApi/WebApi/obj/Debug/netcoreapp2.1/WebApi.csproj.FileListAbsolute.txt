@@ -12,3 +12,17 @@ D:\Tuto Source\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.Razor
 D:\Tuto Source\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
 D:\Tuto Source\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
 D:\Tuto Source\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+D:\MyDev\DotNet\NETCore\VS2019\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb

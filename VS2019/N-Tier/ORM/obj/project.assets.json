@@ -1182,11 +1182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj",
+      "projectUniqueName": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj",
       "projectName": "ORM",
-      "projectPath": "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj",
+      "projectPath": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\ORM\\ORM.csproj",
       "packagesPath": "C:\\Users\\zekiriPC\\.nuget\\packages\\",
-      "outputPath": "D:\\Tuto Source\\NETCore\\VS2019\\N-Tier\\ORM\\obj\\",
+      "outputPath": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\N-Tier\\ORM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",

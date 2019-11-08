@@ -13,7 +13,6 @@ namespace WebApi.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        // GET api/values
         [HttpGet]
         public ActionResult<List<User>> GetUsers()
         {

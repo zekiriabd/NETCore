@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tuto Source\\NETCore\\VS2019\\WebApi\\WebApi\\WebApi.csproj": {}
+    "D:\\MyDev\\DotNet\\NETCore\\VS2019\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Tuto Source\\NETCore\\VS2019\\WebApi\\WebApi\\WebApi.csproj": {
+    "D:\\MyDev\\DotNet\\NETCore\\VS2019\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tuto Source\\NETCore\\VS2019\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\Tuto Source\\NETCore\\VS2019\\WebApi\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\WebApi\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\zekiriPC\\.nuget\\packages\\",
-        "outputPath": "D:\\Tuto Source\\NETCore\\VS2019\\WebApi\\WebApi\\obj\\",
+        "outputPath": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -55,7 +55,6 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true

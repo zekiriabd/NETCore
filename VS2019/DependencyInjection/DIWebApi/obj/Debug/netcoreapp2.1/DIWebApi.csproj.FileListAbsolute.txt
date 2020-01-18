@@ -1,0 +1,16 @@
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\bin\Debug\netcoreapp2.1\DIWebApi.deps.json
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\bin\Debug\netcoreapp2.1\DIWebApi.runtimeconfig.json
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\bin\Debug\netcoreapp2.1\DIWebApi.runtimeconfig.dev.json
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\bin\Debug\netcoreapp2.1\DIWebApi.dll
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\bin\Debug\netcoreapp2.1\DIWebApi.pdb
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\obj\Debug\netcoreapp2.1\DIWebApi.csprojAssemblyReference.cache
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\obj\Debug\netcoreapp2.1\DIWebApi.RazorAssemblyInfo.cache
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\obj\Debug\netcoreapp2.1\DIWebApi.RazorAssemblyInfo.cs
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\obj\Debug\netcoreapp2.1\DIWebApi.AssemblyInfoInputs.cache
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\obj\Debug\netcoreapp2.1\DIWebApi.AssemblyInfo.cs
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\obj\Debug\netcoreapp2.1\DIWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\obj\Debug\netcoreapp2.1\DIWebApi.dll
+C:\Users\zekiriPC\source\repos\DependencyInjection\DIWebApi\obj\Debug\netcoreapp2.1\DIWebApi.pdb

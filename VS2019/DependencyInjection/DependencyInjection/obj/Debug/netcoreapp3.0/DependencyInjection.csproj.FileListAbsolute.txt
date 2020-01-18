@@ -1,0 +1,11 @@
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.0\DependencyInjection.exe
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.0\DependencyInjection.deps.json
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.0\DependencyInjection.runtimeconfig.json
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.0\DependencyInjection.runtimeconfig.dev.json
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.0\DependencyInjection.dll
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.0\DependencyInjection.pdb
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.0\DependencyInjection.csprojAssemblyReference.cache
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.0\DependencyInjection.dll
+C:\Users\zekiriPC\source\repos\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.0\DependencyInjection.pdb

@@ -1,0 +1,17 @@
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\bin\Debug\netcoreapp3.1\SeleniumWebBroser.exe
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\obj\Debug\netcoreapp3.1\SeleniumWebBroser.csprojAssemblyReference.cache
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\obj\Debug\netcoreapp3.1\SeleniumWebBroser.AssemblyInfoInputs.cache
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\obj\Debug\netcoreapp3.1\SeleniumWebBroser.AssemblyInfo.cs
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\obj\Debug\netcoreapp3.1\SeleniumWebBroser.csproj.CopyComplete
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\bin\Debug\netcoreapp3.1\SeleniumWebBroser.deps.json
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\bin\Debug\netcoreapp3.1\SeleniumWebBroser.runtimeconfig.json
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\bin\Debug\netcoreapp3.1\SeleniumWebBroser.runtimeconfig.dev.json
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\bin\Debug\netcoreapp3.1\SeleniumWebBroser.dll
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\bin\Debug\netcoreapp3.1\SeleniumWebBroser.pdb
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\obj\Debug\netcoreapp3.1\SeleniumWebBroser.csproj.CoreCompileInputs.cache
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\obj\Debug\netcoreapp3.1\SeleniumWebBroser.dll
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\obj\Debug\netcoreapp3.1\SeleniumWebBroser.pdb
+D:\MyDev\DotNet\NETCore\VS2019\SeleniumWebBroser\SeleniumWebBroser\obj\Debug\netcoreapp3.1\SeleniumWebBroser.genruntimeconfig.cache

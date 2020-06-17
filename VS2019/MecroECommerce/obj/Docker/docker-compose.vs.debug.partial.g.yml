@@ -1,0 +1,117 @@
+version: '3.4'
+
+services:
+  mecroecommerce.apigateway:
+    image: mecroecommerceapigateway:dev
+    container_name: MecroECommerce.ApiGateway
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "MecroECommerce.ApiGateway"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - NUGET_PACKAGES=C:\.nuget\packages
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_mecroecommerce.apigateway$
+    volumes:
+      - D:\MyDev\DotNet\NETCore\VS2019\MecroECommerce\MecroECommerce.ApiGateway:C:\app
+      - D:\MyDev\DotNet\NETCore\VS2019\MecroECommerce:C:\src
+      - C:\Users\zekiriPC\onecoremsvsmon:C:\remote_debugger:ro
+#$nuget_volume_mapping_mecroecommerce.apigateway$
+      - ${APPDATA}/ASP.NET/Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+
+    entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646 
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_mecroecommerce.apigateway$ \"C:\\app\\bin\\Debug\\netcoreapp3.1\\MecroECommerce.ApiGateway.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
+      com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
+
+  mecroecommerce.customers:
+    image: mecroecommercecustomers:dev
+    container_name: MecroECommerce.Customers
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "MecroECommerce.Customers"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - NUGET_PACKAGES=C:\.nuget\packages
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_mecroecommerce.customers$
+    volumes:
+      - D:\MyDev\DotNet\NETCore\VS2019\MecroECommerce\MecroECommerce.Customers:C:\app
+      - D:\MyDev\DotNet\NETCore\VS2019\MecroECommerce:C:\src
+      - C:\Users\zekiriPC\onecoremsvsmon:C:\remote_debugger:ro
+#$nuget_volume_mapping_mecroecommerce.customers$
+      - ${APPDATA}/ASP.NET/Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+
+    entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646 
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_mecroecommerce.customers$ \"C:\\app\\bin\\Debug\\netcoreapp3.1\\MecroECommerce.Customers.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
+      com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
+
+
+  mecroecommerce.orders:
+    image: mecroecommerceorders:dev
+    container_name: MecroECommerce.Orders
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "MecroECommerce.Orders"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - NUGET_PACKAGES=C:\.nuget\packages
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_mecroecommerce.orders$
+    volumes:
+      - D:\MyDev\DotNet\NETCore\VS2019\MecroECommerce\MecroECommerce.Orders:C:\app
+      - D:\MyDev\DotNet\NETCore\VS2019\MecroECommerce:C:\src
+      - C:\Users\zekiriPC\onecoremsvsmon:C:\remote_debugger:ro
+#$nuget_volume_mapping_mecroecommerce.orders$
+      - ${APPDATA}/ASP.NET/Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+
+    entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646 
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_mecroecommerce.orders$ \"C:\\app\\bin\\Debug\\netcoreapp3.1\\MecroECommerce.Orders.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
+      com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
+
+
+  mecroecommerce.products:
+    image: mecroecommerceproducts:dev
+    container_name: MecroECommerce.Products
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "MecroECommerce.Products"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - NUGET_PACKAGES=C:\.nuget\packages
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_mecroecommerce.products$
+    volumes:
+      - D:\MyDev\DotNet\NETCore\VS2019\MecroECommerce\MecroECommerce.Products:C:\app
+      - D:\MyDev\DotNet\NETCore\VS2019\MecroECommerce:C:\src
+      - C:\Users\zekiriPC\onecoremsvsmon:C:\remote_debugger:ro
+#$nuget_volume_mapping_mecroecommerce.products$
+      - ${APPDATA}/ASP.NET/Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+
+    entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646 
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_mecroecommerce.products$ \"C:\\app\\bin\\Debug\\netcoreapp3.1\\MecroECommerce.Products.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
+      com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
+

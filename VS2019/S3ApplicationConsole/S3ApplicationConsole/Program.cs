@@ -57,7 +57,7 @@ namespace S3ApplicationConsole
 
                             if (!firstfileisOk)
                             {
-                                DownloadFile(fileobj.Key).Wait();
+                               // DownloadFile(fileobj.Key).Wait();
                             }
                         }
                     }

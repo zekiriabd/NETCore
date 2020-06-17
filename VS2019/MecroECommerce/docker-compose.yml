@@ -1,0 +1,43 @@
+version: '3.4'
+
+services:
+  mecroecommerce.sqlserver:
+    image: microsoft/mssql-server-windows-express:2017-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "yaZxehpVieN49"
+    ports:
+      - "1433:1433"
+
+  mecroecommerce.customers:
+    image: ${DOCKER_REGISTRY-}mecroecommercecustomers
+    build:
+      context: .
+      dockerfile: MecroECommerce.Customers\Dockerfile
+    ports:
+     - 7002:80
+
+  mecroecommerce.orders:
+    image: ${DOCKER_REGISTRY-}mecroecommerceorders
+    build:
+      context: .
+      dockerfile: MecroECommerce.Orders\Dockerfile
+    ports:
+     - 7003:80
+
+  mecroecommerce.products:
+    image: ${DOCKER_REGISTRY-}mecroecommerceproducts
+    build:
+      context: .
+      dockerfile: MecroECommerce.Products\Dockerfile
+    ports:
+      - 7001:80
+
+  mecroecommerce.apigateway:
+    image: ${DOCKER_REGISTRY-}mecroecommerceapigateway
+    build:
+      context: .
+      dockerfile: MecroECommerce.ApiGateway\Dockerfile
+    ports:
+     - 7000:80
+

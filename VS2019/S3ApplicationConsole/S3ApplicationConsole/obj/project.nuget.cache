@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ht5pPj22lFj4ENMT1FIvzjwZ4hogAScDC7SocNRS6ifuV2Bo+BALVqikNLeYI1uw8uaK1KFIHyeGunv6fj87WA==",
+  "success": true,
+  "projectFilePath": "D:\\MyDev\\DotNet\\NETCore\\VS2019\\S3ApplicationConsole\\S3ApplicationConsole\\S3ApplicationConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zekiriPC\\.nuget\\packages\\awssdk.core\\3.3.106.25\\awssdk.core.3.3.106.25.nupkg.sha512",
+    "C:\\Users\\zekiriPC\\.nuget\\packages\\awssdk.s3\\3.3.110.71\\awssdk.s3.3.3.110.71.nupkg.sha512",
+    "C:\\Users\\zekiriPC\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\zekiriPC\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\zekiriPC\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\zekiriPC\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\zekiriPC\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\zekiriPC\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

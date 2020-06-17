@@ -1,0 +1,12 @@
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\bin\Debug\netcoreapp2.1\S3ApplicationConsole.deps.json
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\bin\Debug\netcoreapp2.1\S3ApplicationConsole.runtimeconfig.json
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\bin\Debug\netcoreapp2.1\S3ApplicationConsole.runtimeconfig.dev.json
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\bin\Debug\netcoreapp2.1\S3ApplicationConsole.dll
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\bin\Debug\netcoreapp2.1\S3ApplicationConsole.pdb
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\obj\Debug\netcoreapp2.1\S3ApplicationConsole.csprojAssemblyReference.cache
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\obj\Debug\netcoreapp2.1\S3ApplicationConsole.csproj.CoreCompileInputs.cache
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\obj\Debug\netcoreapp2.1\S3ApplicationConsole.AssemblyInfoInputs.cache
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\obj\Debug\netcoreapp2.1\S3ApplicationConsole.AssemblyInfo.cs
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\obj\Debug\netcoreapp2.1\S3ApplicationConsole.dll
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\obj\Debug\netcoreapp2.1\S3ApplicationConsole.pdb
+D:\MyDev\DotNet\NETCore\VS2019\S3ApplicationConsole\S3ApplicationConsole\obj\Debug\netcoreapp2.1\S3ApplicationConsole.genruntimeconfig.cache
